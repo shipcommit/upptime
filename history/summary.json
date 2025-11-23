@@ -4,18 +4,20 @@
     "url": "https://visulry.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/visulry.com.ico",
     "slug": "visulry-health-check",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 620,
-    "timeWeek": 578,
-    "timeMonth": 568,
-    "timeYear": 561,
-    "dailyMinutesDown": {}
+    "time": 562,
+    "timeDay": 677,
+    "timeWeek": 600,
+    "timeMonth": 573,
+    "timeYear": 562,
+    "dailyMinutesDown": {
+      "2025-11-23": 0
+    }
   },
   {
     "name": "Visulry Articles Data",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 407,
-    "timeWeek": 333,
-    "timeMonth": 327,
-    "timeYear": 324,
+    "time": 325,
+    "timeDay": 409,
+    "timeWeek": 347,
+    "timeMonth": 330,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   }
 ]
