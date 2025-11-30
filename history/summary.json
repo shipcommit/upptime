@@ -4,7 +4,7 @@
     "url": "https://visulry.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/visulry.com.ico",
     "slug": "visulry-health-check",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -22,7 +22,7 @@
     "url": "https://visulry.com/articles/__data.json",
     "icon": "https://icons.duckduckgo.com/ip3/visulry.com.ico",
     "slug": "visulry-articles-data",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 326,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-30": 0
+    }
   }
 ]
