@@ -4,18 +4,20 @@
     "url": "https://visulry.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/visulry.com.ico",
     "slug": "visulry-health-check",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 499,
-    "timeWeek": 559,
-    "timeMonth": 561,
-    "timeYear": 560,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 575,
+    "timeDay": 1230,
+    "timeWeek": 715,
+    "timeMonth": 603,
+    "timeYear": 575,
+    "dailyMinutesDown": {
+      "2025-11-30": 18
+    }
   },
   {
     "name": "Visulry Articles Data",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/visulry.com.ico",
     "slug": "visulry-articles-data",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 324,
     "timeDay": 278,
     "timeWeek": 326,
     "timeMonth": 324,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2025-11-30": 0
+      "2025-11-30": 19
     }
   }
 ]
