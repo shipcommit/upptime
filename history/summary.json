@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/visulry.com.ico",
     "slug": "visulry-health-check",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.92%",
     "time": 549,
     "timeDay": 542,
     "timeWeek": 523,
     "timeMonth": 534,
     "timeYear": 549,
     "dailyMinutesDown": {
+      "2026-04-12": 22,
       "2025-12-03": 223,
       "2025-11-30": 18
     }
@@ -25,7 +26,7 @@
     "url": "https://visulry.com/articles/__data.json",
     "icon": "https://icons.duckduckgo.com/ip3/visulry.com.ico",
     "slug": "visulry-articles-data",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +38,7 @@
     "timeMonth": 297,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2026-04-12": 0,
       "2025-12-03": 223,
       "2025-11-30": 29
     }
