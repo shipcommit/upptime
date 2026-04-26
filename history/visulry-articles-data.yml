@@ -1,7 +1,7 @@
 url: https://visulry.com/articles/__data.json
-status: up
-code: 200
-responseTime: 225
-lastUpdated: 2026-04-25T23:09:32.394Z
+status: down
+code: 502
+responseTime: 123
+lastUpdated: 2026-04-26T17:11:49.495Z
 startTime: 2025-08-31T17:06:55.862Z
 generator: Upptime <https://github.com/upptime/upptime>
