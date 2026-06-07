@@ -6,6 +6,10 @@ sites:
     url: https://visulry.com/health
   - name: Visulry Articles Data
     url: https://visulry.com/articles/__data.json
+  - name: Captorify Readiness
+    url: https://captorify.com/readyz
+  - name: Captorify Site
+    url: https://captorify.com/
 
 status-website:
   name: Upptime
